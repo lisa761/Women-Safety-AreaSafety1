@@ -6,4 +6,4 @@ var contactSchema = mongoose.Schema({
 	email: String
 });
 
-module.exports = mongoose.model("Contacts", contactSchema);
+module.exports = mongoose.model("Contacts_AreaSafety1", contactSchema);
